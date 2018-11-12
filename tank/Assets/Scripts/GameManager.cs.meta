@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 892a6616f82badc449b6b7b743631d67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - instance: {instanceID: 0}
+  - IdInput: {instanceID: 0}
+  - PlayerTexture: {fileID: 2800000, guid: 7c838dfa03a1e534d9b405c168284cc2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
